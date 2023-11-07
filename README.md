@@ -17,3 +17,6 @@ To execute this program, run:
 ```bash
 leo execute play
 ```
+## Discord
+My Discord username: 
+`visionercrypto`
